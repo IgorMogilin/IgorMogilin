@@ -24,6 +24,7 @@
 - 💡 Automating everything that moves (and things that don't too)
 - 📚 Learning daily - from low-level optimizations to architectural patterns
 - 🎮 Beyond code: eSportsman at heart, guitarist on weekends
+- 🎯 Open to cooperation on interesting projects
 ---
 
 ### Languages and tools
