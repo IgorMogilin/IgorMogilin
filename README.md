@@ -1,11 +1,6 @@
-<div id="header" align="center">
-    <h1>Hi 👋 my name is Igor Mogilin!</h1>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+developer+from+Moscow" alt="Typing SVG" />
-    </a>
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endless8space@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UltraBack)
+<h1 align="center">Hi 👋 my name is Igor Mogilin!</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+developer+from+Moscow" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:endless8space@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://t.me/UltraBack" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 
 ### About me
 - 🚀 Backend developer specializing in Python/Go
@@ -32,15 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="selenium" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-plain-wordmark.svg" title="go" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  title="fastapi" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="fastapi" width="40" height="40"/>&nbsp;
           
 
 ### My stat
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorMogilin&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorMogilin&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorMogilin&theme=github_dark" alt=""/>
-</div>
-
----
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorMogilin&theme=github_dark" alt=""/></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorMogilin&theme=github_dark" alt=""/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorMogilin&theme=github_dark" alt=""/></p>
