@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 my name is Igor Mogilin!</h1>
+<h1 align="center">Hi 👋  my name is Igor Mogilin!</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+developer+from+Moscow" alt="Typing SVG" /></a></p>
 <p align="center"><a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:endless8space@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://t.me/UltraBack"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a></p>
 
